@@ -1,15 +1,15 @@
 @font-face {
   font-family: "fontawsome";
-  src: url("/fonts/fontawesome-webfont.ttf");
+  src: url("fonts/fontawesome-webfont.ttf");
 }
 @font-face {
   font-family: "iransans";
-  src: url("/fonts/IRANSans_Medium.ttf");
+  src: url("fonts/IRANSans_Medium.ttf");
 }
 
 @font-face {
   font-family: 'iransansregular';
-  src: url("/fonts/IRANSansWeb.ttf");
+  src: url("fonts/IRANSansWeb.ttf");
 }
 
 
